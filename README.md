@@ -1,0 +1,1 @@
+# widilo-swot-analyse
